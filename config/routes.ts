@@ -36,6 +36,18 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
+	{
+		path: '/bai-1',
+		name: 'Bai1',
+		component: './Bai1/bai1',
+		icon: '',
+	},
+	{
+		path: '/bai-2',
+		name: 'Bai2',
+		component: './Bai2/bai2',
+		icon: '',
+	},
 
 	// DANH MUC HE THONG
 	// {
